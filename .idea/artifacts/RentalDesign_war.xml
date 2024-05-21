@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RentalDesign:war">
+    <output-path>$PROJECT_DIR$/../ThreadOperation/RentalDesign/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>RentalDesign</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="RentalDesign.war">
+      <element id="artifact" artifact-name="RentalDesign:war exploded" />
+    </root>
+  </artifact>
+</component>

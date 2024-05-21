@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Animal" target="1.8" />
+      <module name="RentalDesign" target="1.8" />
+      <module name="RentalDesignDemo" target="1.8" />
+      <module name="ThreadOperation" target="1.8" />
+      <module name="ThreadOrder" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
